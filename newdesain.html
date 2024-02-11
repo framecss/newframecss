@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+     <script src="data/typed.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" href="data/frame.min.css" type="text/css" media="all" />
+</head>
+<body>
+    <div class="header text-center">
+        <h1 class="">header</h1>
+        <p>
+            1 column : Mobile Phones, <br />
+            2 column : Tablets, <br />
+            3 column : Desktop
+        </p>
+        <p id="well"></p>
+    </div>
+    <div class="grid">
+        <div class="col-3 col-s-3 bg-teal-green">
+            <h2 class="">col-3 col-s-3</h2>
+        </div>
+        <div class="col-6 col-s-9">
+            <h2 class="">col-6 col-s-9</h2>
+        </div>
+        <div class="col-3 col-s-12">
+            <h2 class="">col-3 col-s-12</h2>
+        </div>
+    </div>
+    <div class="footer text-center">
+        <p class="">footer</p>
+    </div>
+
+    <script>
+        var typed = new Typed('#well', {
+            strings: ['Welcome to Framecss :: New Design'],
+            typeSpeed: 150,
+        });
+    </script>
+   
+</body>
+</html>

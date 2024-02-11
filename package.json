@@ -1,0 +1,34 @@
+{
+  "name": "newframecss",
+  "version": "1.1.5",
+  "description": "Framecss adalah sebuah framework CSS yang menyediakan berbagai macam library CSS untuk keperluan desain aplikasi web dan website. Framecss mendukung class dua bahasa yaitu bahasa Indonesia dan bahasa Inggris, sehingga Anda dapat menggunakan class seperti button atau tombol dan hasilnya sama. Framecss menawarkan fitur-fitur unggulan seperti responsive design, grid system, custom components, dan theme customization. Framecss diciptakan oleh Nelsen Niko yang terinspirasi oleh beberapa CSS framework lain, seperti Bootstrap, Foundation, dan Bulma. Framecss adalah sebuah proyek yang terus berkembang dan berinovasi, sehingga Anda dapat mengikuti perkembangannya di Github.",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsenpro/framecss.git"
+  },
+  "keywords": [
+    "framecss",
+    "frame css",
+    "css",
+    "library css",
+    "framework",
+    "framework css",
+    "nelsen niko",
+    "css framework indonesia",
+    "framework css indonesia",
+    "best css Framework",
+    "basic css framework",
+    "framecss3",
+    "framecss framework"
+  ],
+  "author": "Nelsen Niko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsenpro/framecss/issues"
+  },
+  "homepage": "https://github.com/nelsenpro/framecss#readme"
+}
